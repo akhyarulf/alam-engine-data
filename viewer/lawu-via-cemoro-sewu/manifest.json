@@ -10,14 +10,14 @@
     "route": "Cemoro Sewu"
   },
   "stats": {
-    "points": 1710,
-    "distance_km": 8.56,
-    "gain": 1655,
-    "loss": 302,
+    "points": 1679,
+    "distance_km": 8.51,
+    "gain": 1651,
+    "loss": 295,
     "highest": 3267.388,
     "lowest": 1912.008,
     "start": 1912.046,
-    "finish": 3265.517,
+    "finish": 3267.388,
     "bbox": {
       "min_lat": -7.66459,
       "max_lat": -7.625247,
@@ -34,8 +34,8 @@
     "geojson": "track.geojson"
   },
   "downloads": {
-    "gpx": "https://drive.google.com/uc?id=1kK2vNjxwY0kCOB5S4d_jBXh_ZJRLFIWi&export=download",
-    "kml": "https://drive.google.com/uc?id=1k8KGozrJ6InMmbG7Q8qWzeAjS1lkIGCd&export=download",
+    "gpx": "https://drive.google.com/uc?id=1c_bJpqVUu2zGO7z--3SIWbN7KwBqZJop&export=download",
+    "kml": "https://drive.google.com/uc?id=1oq13ARrR5AzfECxCLkPIKT6HaklKSVia&export=download",
     "kmz": null,
     "fit": null,
     "tcx": null
@@ -50,14 +50,14 @@
       "destination": "github",
       "public": true,
       "exists": true,
-      "size": 375536,
+      "size": 368171,
       "status": "success",
       "file": "track.json",
       "raw_url": "https://raw.githubusercontent.com/akhyarulf/alam-engine-data/main/viewer/lawu-via-cemoro-sewu/track.json",
       "html_url": "https://github.com/akhyarulf/alam-engine-data/blob/main/viewer/lawu-via-cemoro-sewu/track.json",
-      "sha": "b155f2e49f71297474781c1cdfb82f349bb3b960",
+      "sha": "fe825215bb00e3926b6fc59e5e74a53c34b1f0cf",
       "commit": "Update lawu-via-cemoro-sewu/track.json",
-      "uploaded_at": "2026-07-30T09:29:48.775205",
+      "uploaded_at": "2026-07-30T10:14:50.927380",
       "error": null
     },
     {
@@ -69,14 +69,14 @@
       "destination": "github",
       "public": true,
       "exists": true,
-      "size": 167542,
+      "size": 167075,
       "status": "success",
       "file": "track.geojson",
       "raw_url": "https://raw.githubusercontent.com/akhyarulf/alam-engine-data/main/viewer/lawu-via-cemoro-sewu/track.geojson",
       "html_url": "https://github.com/akhyarulf/alam-engine-data/blob/main/viewer/lawu-via-cemoro-sewu/track.geojson",
-      "sha": "56da99e0c15488914ff80e3baf9c2d08f63edcbb",
+      "sha": "6fd0c45d72c9953e1a4b72b614729a2d599f2d64",
       "commit": "Update lawu-via-cemoro-sewu/track.geojson",
-      "uploaded_at": "2026-07-30T09:29:54.672338",
+      "uploaded_at": "2026-07-30T10:14:57.865342",
       "error": null
     },
     {
@@ -88,13 +88,13 @@
       "destination": "drive",
       "public": false,
       "exists": true,
-      "size": 158895,
+      "size": 156020,
       "status": "success",
       "file": "track.gpx",
-      "id": "1kK2vNjxwY0kCOB5S4d_jBXh_ZJRLFIWi",
-      "url": "https://drive.google.com/file/d/1kK2vNjxwY0kCOB5S4d_jBXh_ZJRLFIWi/view?usp=drivesdk",
-      "download_url": "https://drive.google.com/uc?id=1kK2vNjxwY0kCOB5S4d_jBXh_ZJRLFIWi&export=download",
-      "uploaded_at": "2026-07-30T09:30:01.681088",
+      "id": "1c_bJpqVUu2zGO7z--3SIWbN7KwBqZJop",
+      "url": "https://drive.google.com/file/d/1c_bJpqVUu2zGO7z--3SIWbN7KwBqZJop/view?usp=drivesdk",
+      "download_url": "https://drive.google.com/uc?id=1c_bJpqVUu2zGO7z--3SIWbN7KwBqZJop&export=download",
+      "uploaded_at": "2026-07-30T10:15:05.165868",
       "error": null
     },
     {
@@ -106,15 +106,15 @@
       "destination": "drive",
       "public": false,
       "exists": true,
-      "size": 52830,
+      "size": 51877,
       "status": "success",
       "file": "track.kml",
-      "id": "1k8KGozrJ6InMmbG7Q8qWzeAjS1lkIGCd",
-      "url": "https://drive.google.com/file/d/1k8KGozrJ6InMmbG7Q8qWzeAjS1lkIGCd/view?usp=drivesdk",
-      "download_url": "https://drive.google.com/uc?id=1k8KGozrJ6InMmbG7Q8qWzeAjS1lkIGCd&export=download",
-      "uploaded_at": "2026-07-30T09:30:06.527512",
+      "id": "1oq13ARrR5AzfECxCLkPIKT6HaklKSVia",
+      "url": "https://drive.google.com/file/d/1oq13ARrR5AzfECxCLkPIKT6HaklKSVia/view?usp=drivesdk",
+      "download_url": "https://drive.google.com/uc?id=1oq13ARrR5AzfECxCLkPIKT6HaklKSVia&export=download",
+      "uploaded_at": "2026-07-30T10:15:10.493050",
       "error": null
     }
   ],
-  "created_at": "2026-07-30T09:29:42.348456"
+  "created_at": "2026-07-30T10:14:44.035751"
 }
