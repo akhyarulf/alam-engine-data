@@ -6,8 +6,8 @@
       "properties": {
         "name": "Lawu via Cemoro Sewu",
         "route_id": "lawu-via-cemoro-sewu",
-        "mountain": "Lawu via Cemoro Sewu",
-        "route": "",
+        "mountain": "Lawu",
+        "route": "Cemoro Sewu",
         "engine": "Alam Engine",
         "distance_km": 8.51,
         "elevation_gain": 1651,
@@ -8419,7 +8419,7 @@
       "properties": {
         "name": "Start",
         "ele": 1912.046,
-        "distance_km": 0.0,
+        "distance_km": 0,
         "estimated_duration_minutes": 0,
         "locked": true
       },
@@ -8437,8 +8437,8 @@
       "properties": {
         "name": "Finish",
         "ele": 3267.388,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 165,
+        "distance_km": 8.53,
+        "estimated_duration_minutes": 336,
         "locked": true
       },
       "geometry": {
@@ -8455,8 +8455,8 @@
       "properties": {
         "name": "Highest Point",
         "ele": 3267.388,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 165,
+        "distance_km": 8.53,
+        "estimated_duration_minutes": 336,
         "locked": true
       },
       "geometry": {
@@ -8472,17 +8472,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 1",
-        "ele": 2198.242,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 31,
+        "ele": 2198.343,
+        "distance_km": 2.29,
+        "estimated_duration_minutes": 77,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195053,
-          -7.65101,
-          2198.242
+          111.195072,
+          -7.651,
+          2198.343
         ]
       }
     },
@@ -8490,17 +8490,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 2",
-        "ele": 2566.092,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 71,
+        "ele": 2568.045,
+        "distance_km": 4.05,
+        "estimated_duration_minutes": 152,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195109,
-          -7.640556,
-          2566.092
+          111.195082,
+          -7.64053,
+          2568.045
         ]
       }
     },
@@ -8508,17 +8508,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 3",
-        "ele": 2790.627,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 95,
+        "ele": 2790.005,
+        "distance_km": 4.91,
+        "estimated_duration_minutes": 193,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.194791,
-          -7.637084,
-          2790.627
+          111.194789,
+          -7.637097,
+          2790.005
         ]
       }
     },
@@ -8526,17 +8526,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 4",
-        "ele": 3046.592,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 122,
+        "ele": 3046.908,
+        "distance_km": 5.86,
+        "estimated_duration_minutes": 240,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           111.195533,
-          -7.633686,
-          3046.592
+          -7.633648,
+          3046.908
         ]
       }
     },
@@ -8544,35 +8544,71 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 5",
-        "ele": 3107.178,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 129,
+        "ele": 3107.615,
+        "distance_km": 6.1,
+        "estimated_duration_minutes": 251,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.196222,
-          -7.63254,
-          3107.178
+          111.196166,
+          -7.632602,
+          3107.615
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Sendang Drajat",
-        "ele": 3145.542,
-        "distance_km": 0.0,
-        "estimated_duration_minutes": 135,
+        "name": "Sednang Draajt",
+        "ele": 3151.573,
+        "distance_km": 6.8,
+        "estimated_duration_minutes": 272,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.197947,
-          -7.628608,
-          3145.542
+          111.197997,
+          -7.628577,
+          3151.573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hargo Dalem",
+        "ele": 3072.649,
+        "distance_km": 7.52,
+        "estimated_duration_minutes": 290,
+        "locked": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.196451,
+          -7.625413,
+          3072.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hargo Dumilah",
+        "ele": 3257.651,
+        "distance_km": 8.07,
+        "estimated_duration_minutes": 322,
+        "locked": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.194286,
+          -7.627373,
+          3257.651
         ]
       }
     }
