@@ -6,8 +6,8 @@
       "properties": {
         "name": "Lawu via Cemoro Sewu",
         "route_id": "lawu-via-cemoro-sewu",
-        "mountain": "Lawu",
-        "route": "Cemoro Sewu",
+        "mountain": "Lawu via Cemoro Sewu",
+        "route": "",
         "engine": "Alam Engine",
         "distance_km": 8.51,
         "elevation_gain": 1651,
@@ -8418,7 +8418,10 @@
       "type": "Feature",
       "properties": {
         "name": "Start",
-        "ele": 1912.046
+        "ele": 1912.046,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 0,
+        "locked": true
       },
       "geometry": {
         "type": "Point",
@@ -8433,7 +8436,10 @@
       "type": "Feature",
       "properties": {
         "name": "Finish",
-        "ele": 3267.388
+        "ele": 3267.388,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 165,
+        "locked": true
       },
       "geometry": {
         "type": "Point",
@@ -8448,7 +8454,10 @@
       "type": "Feature",
       "properties": {
         "name": "Highest Point",
-        "ele": 3267.388
+        "ele": 3267.388,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 165,
+        "locked": true
       },
       "geometry": {
         "type": "Point",
@@ -8463,14 +8472,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 1",
-        "ele": 2216.825
+        "ele": 2198.242,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 31,
+        "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195054,
-          -7.651168,
-          2216.825
+          111.195053,
+          -7.65101,
+          2198.242
         ]
       }
     },
@@ -8478,14 +8490,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 2",
-        "ele": 2565.794
+        "ele": 2566.092,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 71,
+        "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195154,
-          -7.640606,
-          2565.794
+          111.195109,
+          -7.640556,
+          2566.092
         ]
       }
     },
@@ -8493,14 +8508,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 3",
-        "ele": 2791.013
+        "ele": 2790.627,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 95,
+        "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.194746,
-          -7.637134,
-          2791.013
+          111.194791,
+          -7.637084,
+          2790.627
         ]
       }
     },
@@ -8508,14 +8526,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 4",
-        "ele": 3033.008
+        "ele": 3046.592,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 122,
+        "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195411,
-          -7.633815,
-          3033.008
+          111.195533,
+          -7.633686,
+          3046.592
         ]
       }
     },
@@ -8523,14 +8544,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 5",
-        "ele": 3106.856
+        "ele": 3107.178,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 129,
+        "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.196168,
-          -7.632602,
-          3106.856
+          111.196222,
+          -7.63254,
+          3107.178
         ]
       }
     },
@@ -8538,14 +8562,17 @@
       "type": "Feature",
       "properties": {
         "name": "Sendang Drajat",
-        "ele": 3147.76
+        "ele": 3145.542,
+        "distance_km": 0.0,
+        "estimated_duration_minutes": 135,
+        "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.197911,
-          -7.628748,
-          3147.76
+          111.197947,
+          -7.628608,
+          3145.542
         ]
       }
     }
