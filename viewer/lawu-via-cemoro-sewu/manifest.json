@@ -6,8 +6,8 @@
   },
   "track": {
     "name": "Lawu via Cemoro Sewu",
-    "mountain": "Lawu via Cemoro Sewu",
-    "route": ""
+    "mountain": "Lawu",
+    "route": "Cemoro Sewu"
   },
   "stats": {
     "points": 1679,
@@ -36,8 +36,8 @@
     "geojson": "track.geojson"
   },
   "downloads": {
-    "gpx": "https://drive.google.com/uc?id=13e45Zma4z_5H_5A7GYRzdnqHr5nuwkiv&export=download",
-    "kml": "https://drive.google.com/uc?id=1WpDh-suZ3ssY3Krh6iAEVCjNT2ja7U19&export=download",
+    "gpx": "https://drive.google.com/uc?id=1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm&export=download",
+    "kml": "https://drive.google.com/uc?id=1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd&export=download",
     "kmz": null,
     "fit": null,
     "tcx": null
@@ -52,14 +52,14 @@
       "destination": "github",
       "public": true,
       "exists": true,
-      "size": 347697,
+      "size": 369499,
       "status": "success",
       "file": "track.json",
       "raw_url": "https://raw.githubusercontent.com/akhyarulf/alam-engine-data/main/viewer/lawu-via-cemoro-sewu/track.json",
       "html_url": "https://github.com/akhyarulf/alam-engine-data/blob/main/viewer/lawu-via-cemoro-sewu/track.json",
-      "sha": "d35f6fca973c990e306255aba57215c3b6fb78d5",
+      "sha": "f40ffb858ec921d6bc2961fde7e2919eb870c373",
       "commit": "Update lawu-via-cemoro-sewu/track.json",
-      "uploaded_at": "2026-07-31T10:09:17.062620",
+      "uploaded_at": "2026-07-31T10:23:46.068192",
       "error": null
     },
     {
@@ -71,14 +71,14 @@
       "destination": "github",
       "public": true,
       "exists": true,
-      "size": 167963,
+      "size": 168742,
       "status": "success",
       "file": "track.geojson",
       "raw_url": "https://raw.githubusercontent.com/akhyarulf/alam-engine-data/main/viewer/lawu-via-cemoro-sewu/track.geojson",
       "html_url": "https://github.com/akhyarulf/alam-engine-data/blob/main/viewer/lawu-via-cemoro-sewu/track.geojson",
-      "sha": "478c5337df4420bfe2d5371eec72d638c2bf1459",
+      "sha": "e2221edf911d08a9425ea4f4d7d6777aa33280d9",
       "commit": "Update lawu-via-cemoro-sewu/track.geojson",
-      "uploaded_at": "2026-07-31T10:09:23.711685",
+      "uploaded_at": "2026-07-31T10:23:52.555542",
       "error": null
     },
     {
@@ -90,13 +90,13 @@
       "destination": "drive",
       "public": false,
       "exists": true,
-      "size": 156019,
+      "size": 156020,
       "status": "success",
       "file": "track.gpx",
-      "id": "13e45Zma4z_5H_5A7GYRzdnqHr5nuwkiv",
-      "url": "https://drive.google.com/file/d/13e45Zma4z_5H_5A7GYRzdnqHr5nuwkiv/view?usp=drivesdk",
-      "download_url": "https://drive.google.com/uc?id=13e45Zma4z_5H_5A7GYRzdnqHr5nuwkiv&export=download",
-      "uploaded_at": "2026-07-31T10:09:29.752394",
+      "id": "1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm",
+      "url": "https://drive.google.com/file/d/1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm/view?usp=drivesdk",
+      "download_url": "https://drive.google.com/uc?id=1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm&export=download",
+      "uploaded_at": "2026-07-31T10:23:59.560426",
       "error": null
     },
     {
@@ -111,12 +111,12 @@
       "size": 51877,
       "status": "success",
       "file": "track.kml",
-      "id": "1WpDh-suZ3ssY3Krh6iAEVCjNT2ja7U19",
-      "url": "https://drive.google.com/file/d/1WpDh-suZ3ssY3Krh6iAEVCjNT2ja7U19/view?usp=drivesdk",
-      "download_url": "https://drive.google.com/uc?id=1WpDh-suZ3ssY3Krh6iAEVCjNT2ja7U19&export=download",
-      "uploaded_at": "2026-07-31T10:09:34.900249",
+      "id": "1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd",
+      "url": "https://drive.google.com/file/d/1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd/view?usp=drivesdk",
+      "download_url": "https://drive.google.com/uc?id=1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd&export=download",
+      "uploaded_at": "2026-07-31T10:24:04.921246",
       "error": null
     }
   ],
-  "created_at": "2026-07-31T10:09:09.748936"
+  "created_at": "2026-07-31T10:23:38.721877"
 }
