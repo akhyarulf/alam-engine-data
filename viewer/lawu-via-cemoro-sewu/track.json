@@ -15,7 +15,10 @@
     "lowest": 1912.008,
     "start": 1912.046,
     "finish": 3267.388,
-    "estimated_duration_minutes": 335,
+    "ascent_duration_minutes_low": 285,
+    "ascent_duration_minutes_high": 375,
+    "descent_duration_minutes_low": 30,
+    "descent_duration_minutes_high": 45,
     "direction": "ascent",
     "bbox": {
       "min_lat": -7.66459,
@@ -35,79 +38,54 @@
       "lng": 111.191485,
       "ele": 1912.046,
       "distance_km": 0,
-      "estimated_duration_minutes": 0,
-      "locked": true
-    },
-    {
-      "name": "Finish",
-      "lat": -7.627342,
-      "lng": 111.194398,
-      "ele": 3267.388,
-      "distance_km": 8.53,
-      "estimated_duration_minutes": 336,
-      "locked": true
-    },
-    {
-      "name": "Highest Point",
-      "lat": -7.627342,
-      "lng": 111.194398,
-      "ele": 3267.388,
-      "distance_km": 8.53,
-      "estimated_duration_minutes": 336,
       "locked": true
     },
     {
       "name": "Pos 1",
-      "lat": -7.651,
-      "lng": 111.195072,
-      "ele": 2198.343,
-      "distance_km": 2.29,
-      "estimated_duration_minutes": 77,
+      "lat": -7.651011,
+      "lng": 111.195065,
+      "ele": 2198.968,
+      "distance_km": 2.32,
       "locked": false
     },
     {
       "name": "Pos 2",
-      "lat": -7.64053,
-      "lng": 111.195082,
-      "ele": 2568.045,
-      "distance_km": 4.05,
-      "estimated_duration_minutes": 152,
+      "lat": -7.640556,
+      "lng": 111.195109,
+      "ele": 2566.092,
+      "distance_km": 3.99,
       "locked": false
     },
     {
       "name": "Pos 3",
-      "lat": -7.637097,
-      "lng": 111.194789,
-      "ele": 2790.005,
-      "distance_km": 4.91,
-      "estimated_duration_minutes": 193,
+      "lat": -7.637111,
+      "lng": 111.194811,
+      "ele": 2791.511,
+      "distance_km": 4.99,
       "locked": false
     },
     {
       "name": "Pos 4",
-      "lat": -7.633648,
-      "lng": 111.195533,
-      "ele": 3046.908,
+      "lat": -7.633643,
+      "lng": 111.195595,
+      "ele": 3047.261,
       "distance_km": 5.86,
-      "estimated_duration_minutes": 240,
       "locked": false
     },
     {
       "name": "Pos 5",
-      "lat": -7.632602,
-      "lng": 111.196166,
-      "ele": 3107.615,
-      "distance_km": 6.1,
-      "estimated_duration_minutes": 251,
+      "lat": -7.63257,
+      "lng": 111.196193,
+      "ele": 3107.138,
+      "distance_km": 6.11,
       "locked": false
     },
     {
-      "name": "Sednang Draajt",
-      "lat": -7.628577,
-      "lng": 111.197997,
-      "ele": 3151.573,
-      "distance_km": 6.8,
-      "estimated_duration_minutes": 272,
+      "name": "Sendang Drajat",
+      "lat": -7.628543,
+      "lng": 111.198036,
+      "ele": 3150.689,
+      "distance_km": 6.74,
       "locked": false
     },
     {
@@ -116,17 +94,23 @@
       "lng": 111.196451,
       "ele": 3072.649,
       "distance_km": 7.52,
-      "estimated_duration_minutes": 290,
       "locked": false
     },
     {
       "name": "Hargo Dumilah",
-      "lat": -7.627373,
-      "lng": 111.194286,
-      "ele": 3257.651,
-      "distance_km": 8.07,
-      "estimated_duration_minutes": 322,
+      "lat": -7.627351,
+      "lng": 111.194369,
+      "ele": 3259.07,
+      "distance_km": 8.02,
       "locked": false
+    },
+    {
+      "name": "Finish",
+      "lat": -7.627342,
+      "lng": 111.194398,
+      "ele": 3267.388,
+      "distance_km": 8.53,
+      "locked": true
     }
   ],
   "geometry": {
