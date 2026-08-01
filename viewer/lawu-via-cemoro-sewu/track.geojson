@@ -8420,7 +8420,6 @@
         "name": "Start",
         "ele": 1912.046,
         "distance_km": 0,
-        "estimated_duration_minutes": 0,
         "locked": true
       },
       "geometry": {
@@ -8435,54 +8434,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Finish",
-        "ele": 3267.388,
-        "distance_km": 8.53,
-        "estimated_duration_minutes": 336,
-        "locked": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          111.194398,
-          -7.627342,
-          3267.388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Highest Point",
-        "ele": 3267.388,
-        "distance_km": 8.53,
-        "estimated_duration_minutes": 336,
-        "locked": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          111.194398,
-          -7.627342,
-          3267.388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Pos 1",
-        "ele": 2198.343,
-        "distance_km": 2.29,
-        "estimated_duration_minutes": 77,
+        "ele": 2198.968,
+        "distance_km": 2.32,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195072,
-          -7.651,
-          2198.343
+          111.195065,
+          -7.651011,
+          2198.968
         ]
       }
     },
@@ -8490,17 +8452,16 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 2",
-        "ele": 2568.045,
-        "distance_km": 4.05,
-        "estimated_duration_minutes": 152,
+        "ele": 2566.092,
+        "distance_km": 3.99,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195082,
-          -7.64053,
-          2568.045
+          111.195109,
+          -7.640556,
+          2566.092
         ]
       }
     },
@@ -8508,17 +8469,16 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 3",
-        "ele": 2790.005,
-        "distance_km": 4.91,
-        "estimated_duration_minutes": 193,
+        "ele": 2791.511,
+        "distance_km": 4.99,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.194789,
-          -7.637097,
-          2790.005
+          111.194811,
+          -7.637111,
+          2791.511
         ]
       }
     },
@@ -8526,17 +8486,16 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 4",
-        "ele": 3046.908,
+        "ele": 3047.261,
         "distance_km": 5.86,
-        "estimated_duration_minutes": 240,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.195533,
-          -7.633648,
-          3046.908
+          111.195595,
+          -7.633643,
+          3047.261
         ]
       }
     },
@@ -8544,35 +8503,33 @@
       "type": "Feature",
       "properties": {
         "name": "Pos 5",
-        "ele": 3107.615,
-        "distance_km": 6.1,
-        "estimated_duration_minutes": 251,
+        "ele": 3107.138,
+        "distance_km": 6.11,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.196166,
-          -7.632602,
-          3107.615
+          111.196193,
+          -7.63257,
+          3107.138
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Sednang Draajt",
-        "ele": 3151.573,
-        "distance_km": 6.8,
-        "estimated_duration_minutes": 272,
+        "name": "Sendang Drajat",
+        "ele": 3150.689,
+        "distance_km": 6.74,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.197997,
-          -7.628577,
-          3151.573
+          111.198036,
+          -7.628543,
+          3150.689
         ]
       }
     },
@@ -8582,7 +8539,6 @@
         "name": "Hargo Dalem",
         "ele": 3072.649,
         "distance_km": 7.52,
-        "estimated_duration_minutes": 290,
         "locked": false
       },
       "geometry": {
@@ -8598,17 +8554,33 @@
       "type": "Feature",
       "properties": {
         "name": "Hargo Dumilah",
-        "ele": 3257.651,
-        "distance_km": 8.07,
-        "estimated_duration_minutes": 322,
+        "ele": 3259.07,
+        "distance_km": 8.02,
         "locked": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.194286,
-          -7.627373,
-          3257.651
+          111.194369,
+          -7.627351,
+          3259.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finish",
+        "ele": 3267.388,
+        "distance_km": 8.53,
+        "locked": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.194398,
+          -7.627342,
+          3267.388
         ]
       }
     }
