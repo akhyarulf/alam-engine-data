@@ -18,7 +18,10 @@
     "lowest": 1912.008,
     "start": 1912.046,
     "finish": 3267.388,
-    "estimated_duration_minutes": 335,
+    "ascent_duration_minutes_low": 285,
+    "ascent_duration_minutes_high": 375,
+    "descent_duration_minutes_low": 30,
+    "descent_duration_minutes_high": 45,
     "direction": "ascent",
     "bbox": {
       "min_lat": -7.66459,
@@ -31,13 +34,78 @@
       "lng": 111.194826
     }
   },
+  "legs": [
+    {
+      "from": "Start",
+      "to": "Pos 1",
+      "distance_km": 2.32,
+      "duration_minutes_low": 75,
+      "duration_minutes_high": 105
+    },
+    {
+      "from": "Pos 1",
+      "to": "Pos 2",
+      "distance_km": 1.67,
+      "duration_minutes_low": 75,
+      "duration_minutes_high": 90
+    },
+    {
+      "from": "Pos 2",
+      "to": "Pos 3",
+      "distance_km": 1.0,
+      "duration_minutes_low": 45,
+      "duration_minutes_high": 60
+    },
+    {
+      "from": "Pos 3",
+      "to": "Pos 4",
+      "distance_km": 0.87,
+      "duration_minutes_low": 45,
+      "duration_minutes_high": 60
+    },
+    {
+      "from": "Pos 4",
+      "to": "Pos 5",
+      "distance_km": 0.25,
+      "duration_minutes_low": 15,
+      "duration_minutes_high": 30
+    },
+    {
+      "from": "Pos 5",
+      "to": "Sendang Drajat",
+      "distance_km": 0.63,
+      "duration_minutes_low": 15,
+      "duration_minutes_high": 30
+    },
+    {
+      "from": "Sendang Drajat",
+      "to": "Hargo Dalem",
+      "distance_km": 0.78,
+      "duration_minutes_low": 15,
+      "duration_minutes_high": 30
+    },
+    {
+      "from": "Hargo Dalem",
+      "to": "Hargo Dumilah",
+      "distance_km": 0.5,
+      "duration_minutes_low": 30,
+      "duration_minutes_high": 45
+    },
+    {
+      "from": "Hargo Dumilah",
+      "to": "Finish",
+      "distance_km": 0.51,
+      "duration_minutes_low": 15,
+      "duration_minutes_high": 30
+    }
+  ],
   "viewer": {
     "json": "track.json",
     "geojson": "track.geojson"
   },
   "downloads": {
-    "gpx": "https://drive.google.com/uc?id=1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm&export=download",
-    "kml": "https://drive.google.com/uc?id=1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd&export=download",
+    "gpx": "https://drive.google.com/uc?id=1xWoPc0Zurz3Kvfz2lqpjo-DoIuYQnqTY&export=download",
+    "kml": "https://drive.google.com/uc?id=1bQ85v60AeThykeAwaJllqdhObbch8ToU&export=download",
     "kmz": null,
     "fit": null,
     "tcx": null
@@ -52,14 +120,14 @@
       "destination": "github",
       "public": true,
       "exists": true,
-      "size": 369499,
+      "size": 368998,
       "status": "success",
       "file": "track.json",
       "raw_url": "https://raw.githubusercontent.com/akhyarulf/alam-engine-data/main/viewer/lawu-via-cemoro-sewu/track.json",
       "html_url": "https://github.com/akhyarulf/alam-engine-data/blob/main/viewer/lawu-via-cemoro-sewu/track.json",
-      "sha": "f40ffb858ec921d6bc2961fde7e2919eb870c373",
+      "sha": "3b1a0764066cf13f26344e45aa2cd333c704e328",
       "commit": "Update lawu-via-cemoro-sewu/track.json",
-      "uploaded_at": "2026-07-31T10:23:46.068192",
+      "uploaded_at": "2026-08-01T00:43:46.473474",
       "error": null
     },
     {
@@ -71,14 +139,14 @@
       "destination": "github",
       "public": true,
       "exists": true,
-      "size": 168742,
+      "size": 167918,
       "status": "success",
       "file": "track.geojson",
       "raw_url": "https://raw.githubusercontent.com/akhyarulf/alam-engine-data/main/viewer/lawu-via-cemoro-sewu/track.geojson",
       "html_url": "https://github.com/akhyarulf/alam-engine-data/blob/main/viewer/lawu-via-cemoro-sewu/track.geojson",
-      "sha": "e2221edf911d08a9425ea4f4d7d6777aa33280d9",
+      "sha": "c2bcb2b663812bbaa4f95648a090bb6a5c5d3b18",
       "commit": "Update lawu-via-cemoro-sewu/track.geojson",
-      "uploaded_at": "2026-07-31T10:23:52.555542",
+      "uploaded_at": "2026-08-01T00:43:58.407828",
       "error": null
     },
     {
@@ -93,10 +161,10 @@
       "size": 156020,
       "status": "success",
       "file": "track.gpx",
-      "id": "1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm",
-      "url": "https://drive.google.com/file/d/1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm/view?usp=drivesdk",
-      "download_url": "https://drive.google.com/uc?id=1ySYZ-H-3LgpzjsA7v5hGqEYjcEmj5sXm&export=download",
-      "uploaded_at": "2026-07-31T10:23:59.560426",
+      "id": "1xWoPc0Zurz3Kvfz2lqpjo-DoIuYQnqTY",
+      "url": "https://drive.google.com/file/d/1xWoPc0Zurz3Kvfz2lqpjo-DoIuYQnqTY/view?usp=drivesdk",
+      "download_url": "https://drive.google.com/uc?id=1xWoPc0Zurz3Kvfz2lqpjo-DoIuYQnqTY&export=download",
+      "uploaded_at": "2026-08-01T00:44:04.951301",
       "error": null
     },
     {
@@ -111,12 +179,12 @@
       "size": 51877,
       "status": "success",
       "file": "track.kml",
-      "id": "1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd",
-      "url": "https://drive.google.com/file/d/1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd/view?usp=drivesdk",
-      "download_url": "https://drive.google.com/uc?id=1E-GFyZgCXpgxkPBiyqcmtSQb1utCdjbd&export=download",
-      "uploaded_at": "2026-07-31T10:24:04.921246",
+      "id": "1bQ85v60AeThykeAwaJllqdhObbch8ToU",
+      "url": "https://drive.google.com/file/d/1bQ85v60AeThykeAwaJllqdhObbch8ToU/view?usp=drivesdk",
+      "download_url": "https://drive.google.com/uc?id=1bQ85v60AeThykeAwaJllqdhObbch8ToU&export=download",
+      "uploaded_at": "2026-08-01T00:44:10.053401",
       "error": null
     }
   ],
-  "created_at": "2026-07-31T10:23:38.721877"
+  "created_at": "2026-08-01T00:43:38.159684"
 }
